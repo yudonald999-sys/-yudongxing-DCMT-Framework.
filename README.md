@@ -1,3 +1,5 @@
+> **Archived.** Runnable code for reviewers and experiments has moved to **https://github.com/yudongxing999/DCMT-Framework**. This repository is kept for historical assets (figures/tables); please use the new repo for install, smoke tests, and continued development.
+
 # Measurement Protocols
 
 This directory contains the measurement protocols and analysis scripts used in our study.
